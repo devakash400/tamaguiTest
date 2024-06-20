@@ -16,6 +16,7 @@
     "@tamagui/colors": "^1.99.1",
     "@tamagui/config": "^1.99.1",
     "@tamagui/core": "^1.99.1",
+    "babel-plugin-module-resolver": "^5.0.2",
     "expo": "~51.0.8",
     "expo-constants": "~16.0.1",
     "expo-linear-gradient": "^13.0.2",
